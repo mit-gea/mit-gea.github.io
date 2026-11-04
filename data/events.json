@@ -1,0 +1,26 @@
+[
+  {
+    "id": "table-tennis-results-2026",
+    "title": "Last call: match results",
+    "date": "2026-11-18",
+    "category": "tournament",
+    "label": "Deadline",
+    "description": "Finish your matches and submit your results ahead of tournament day.",
+    "location": "Submit online",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSf8gGbqtE8H6x8a5JhJM3m-ApxJ0JEWSqbXBGUObz8JNafyhQ/viewform?usp=dialog",
+    "action": "Submit results",
+    "allDay": true
+  },
+  {
+    "id": "table-tennis-tournament-2026",
+    "title": "The GEA Table Tennis Tournament",
+    "date": "2026-11-20",
+    "category": "tournament",
+    "label": "Tournament",
+    "description": "Bring your game. Our fall table tennis tournament is almost here.",
+    "location": "Time & location to be announced",
+    "url": "table-tennis.html",
+    "action": "Tournament hub",
+    "allDay": true
+  }
+]
